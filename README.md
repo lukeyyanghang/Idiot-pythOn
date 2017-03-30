@@ -1,2 +1,2 @@
 # Idiot-pythOn
-I am learning python and some about data-analyze
+这里好像可以写中文，我试试
